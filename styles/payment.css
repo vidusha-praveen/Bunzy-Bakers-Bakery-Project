@@ -1,0 +1,57 @@
+body{
+    background-color: #fff9f0;;
+}
+
+.container{
+    background-color: white;
+}
+
+.nav-tabs {
+    border-bottom: 2px solid #ff6b00;
+}
+
+.nav-tabs .nav-link {
+    color: #592e2f;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.nav-tabs .nav-link.active {
+    color: #ff6b00;
+    background-color: transparent;
+    border-bottom: 3px solid #ff6b00;
+}
+
+.card-icons i {
+    font-size: 1.5rem;
+}
+
+.btn-paypal {
+    padding: 10px 25px;
+    border-radius: 8px;
+    font-weight: 600;
+    border: none;
+}
+
+.btn-back{
+    background-color: #ff6b00;
+    color: white;
+}
+
+.btn-back:hover{
+    color: white;
+}
+
+.btn-continue{
+    background-color: #ff6b00;
+    color: white;
+}
+
+.btn-continue:hover {
+    color: white;
+}
+
+#cardNumber {
+    letter-spacing: 1px;
+}
